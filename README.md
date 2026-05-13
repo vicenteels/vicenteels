@@ -6,25 +6,19 @@ Systems Analysis & Development Student | Tech Enthusiast
 
 I'm a developer passionate about full-stack development, data science, and machine learning. Currently learning and building practical solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicenteels)
+<p align="center">
+  <a href="https://linkedin.com/in/vicenteels" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-LINKEDIN-0A66C2?style=for-the-badge&labelColor=2f2f2f&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
----
+--
 
 ## Tech Stack
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000&labelColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000&labelColor=61DAFB)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=000000)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white&labelColor=E0234E)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=092E20)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032)
--->
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,react,nodejs,css,html,tailwind,bash,docker,linux,bootstrap,django,figma,flask,git,github,mysql,postgres,sqlite,redis,nginx,vite,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,css,html,bash,docker,linux,bootstrap,django,git,github,mysql,postgres&theme=dark" />
 
 </p>
 </div>
