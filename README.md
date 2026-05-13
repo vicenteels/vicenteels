@@ -4,10 +4,6 @@
 
 Systems Analysis & Development Student | Tech Enthusiast
 
----
-
-## About Me
-
 I'm a developer passionate about full-stack development, data science, and machine learning. Currently learning and building practical solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
@@ -28,8 +24,6 @@ I'm a developer passionate about full-stack development, data science, and machi
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicenteels&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/vicenteels)
 
 </div>
