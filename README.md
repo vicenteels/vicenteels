@@ -9,7 +9,7 @@ I'm a developer passionate about full-stack development, data science, and machi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,css,html,bash,docker,linux,bootstrap,django,git,github,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,css,html,bash,docker,linux,bootstrap,django,git,github,mysql,postgres,pandas&theme=dark" />
 
 </p>
 
