@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="background.png" alt="Banner" width="100%">
-</p>
+# Hey there, I'm Vicente!
 
 Systems Analysis & Development Student | Tech Enthusiast
 
