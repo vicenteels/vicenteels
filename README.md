@@ -1,5 +1,7 @@
 <div align="center">
 
+
+<img align="right" alt="Coding" width="400" src="https://image.slidesdocs.com/responsive-images/background/landscape-landscape-cartoon-nature-decoration-illustration-scenery-powerpoint-background_859b173d74__960_540.jpg">
 # Hey there, I'm Vicente!
 
 Systems Analysis & Development Student | Tech Enthusiast
