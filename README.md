@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000" height="400" alt="panda no espaço" src="image.png" />
+</p>
+
 <div align="center">
 
 # Hey there, I'm Vicente!
